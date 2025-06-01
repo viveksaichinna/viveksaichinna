@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Vivek Sai Chinna Burada
+# Hi, I'm Vivek Sai Chinna Burada
 
-🎯 **Aspiring Data Engineer | AWS Certified | Real-Time Big Data & Cloud Solutions Enthusiast**
+ **Aspiring Data Engineer | AWS Certified | Real-Time Big Data & Cloud Solutions Enthusiast**
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a results-driven **Data Engineer** with over **3 years** of hands-on experience designing and implementing data pipelines, real-time streaming systems, and cloud-based solutions across diverse industries. Currently pursuing my **Master’s in Computer Science at UNC Charlotte**, I specialize in leveraging tools like **PySpark, AWS, Hadoop, and Kafka** to build scalable and performant data architectures.
 
 ---
 
-### 🧰 Core Competencies
+### Core Competencies
 
 - **Big Data Technologies**: Apache Spark, Hadoop (HDFS, MapReduce, Hive, Pig), Kafka, Oozie, Sqoop, HBase
 - **Cloud Platforms**: AWS (EC2, S3, Redshift, Glue, Lambda), Azure Data Services
@@ -22,7 +22,7 @@ I'm a results-driven **Data Engineer** with over **3 years** of hands-on experie
 
 ---
 
-### 💼 Work Experience Highlights
+###  Work Experience Highlights
 
 **🔹 Data Engineer @ State Farm**  
 *Dec 2023 – Present (Chicago, IL)*  
@@ -38,20 +38,20 @@ I'm a results-driven **Data Engineer** with over **3 years** of hands-on experie
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
-**🔐 Real-Time CAPTCHA using Hand Gesture Recognition**  
+** Real-Time CAPTCHA using Hand Gesture Recognition**  
 > Enhanced security for authentication systems with gesture-based real-time verification using **CNN & MediaPipe**.
 
-**🌫️ Air Quality Forecasting with Real-Time Pipeline**  
+** Air Quality Forecasting with Real-Time Pipeline**  
 > Built a 5-stage Spark streaming pipeline for AQI prediction with <100ms latency and **95% accuracy**.
 
-**📚 Sentiment Analysis on Historical Texts**  
+** Sentiment Analysis on Historical Texts**  
 > Performed large-scale text mining and sentiment trend analysis using **MapReduce and Hive**.
 
 ---
 
-### 📚 Education
+###  Education
 
 - **MS in Computer Science**  
   *University of North Carolina at Charlotte (2023 – 2025)*  
@@ -62,9 +62,9 @@ I'm a results-driven **Data Engineer** with over **3 years** of hands-on experie
 
 ### 📫 Get in Touch
 
-- 📧 [viveksaichinnaburada@gmail.com](mailto:viveksaichinnaburada@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vivek-sai-chinna-burada-a50873215/)  
-- 💻 [GitHub](https://github.com/viveksaichinna)
+-  [viveksaichinnaburada@gmail.com](mailto:viveksaichinnaburada@gmail.com)  
+-  [LinkedIn](https://www.linkedin.com/in/vivek-sai-chinna-burada-a50873215/)  
+-  [GitHub](https://github.com/viveksaichinna)
 
 ---
 
