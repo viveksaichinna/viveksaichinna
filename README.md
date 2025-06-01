@@ -18,7 +18,7 @@ I'm a results-driven **Data Engineer** with over **3 years** of hands-on experie
 - **DevOps & Infrastructure**: Git, Jenkins, CloudFormation, Docker, CI/CD
 - **Databases**: PostgreSQL, MySQL, Oracle, MongoDB, Cassandra
 - **Visualization**: Power BI, Tableau
-- **Certifications**: 🏅 AWS Certified Data Engineer – Associate (Dec 2024)
+- **Certifications**:  AWS Certified Data Engineer – Associate (Dec 2024)
 
 ---
 
@@ -60,7 +60,7 @@ I'm a results-driven **Data Engineer** with over **3 years** of hands-on experie
 
 ---
 
-### 📫 Get in Touch
+###  Get in Touch
 
 -  [viveksaichinnaburada@gmail.com](mailto:viveksaichinnaburada@gmail.com)  
 -  [LinkedIn](https://www.linkedin.com/in/vivek-sai-chinna-burada-a50873215/)  
