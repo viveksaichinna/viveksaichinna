@@ -1,6 +1,6 @@
 # Hi, I'm Vivek Sai Chinna Burada
 
- **Aspiring Data Engineer | AWS Certified | Real-Time Big Data & Cloud Solutions Enthusiast**
+ **Data Engineer | AWS Certified | Real-Time Big Data & Cloud Solutions Enthusiast**
 
 ---
 
