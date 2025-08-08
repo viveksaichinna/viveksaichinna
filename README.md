@@ -22,22 +22,6 @@ I'm a results-driven **Data Engineer** with over **3 years** of hands-on experie
 
 ---
 
-###  Work Experience Highlights
-
-**🔹 Data Engineer @ State Farm**  
-*Dec 2023 – Present (Chicago, IL)*  
-- Migrated on-prem SQL Server data to **AWS Redshift**, reducing infrastructure costs.
-- Built data pipelines using **PySpark**, ingesting and transforming TB-scale data into Hive.
-- Automated cloud infrastructure via **CloudFormation** and optimized query performance.
-
-**🔹 Data Engineer @ Evoke Technologies**  
-*Dec 2021 – July 2023 (Hyderabad, India)*  
-- Developed Spark-Scala ETL pipelines from **Oracle to Cassandra**.
-- Deployed big data solutions using **Hadoop ecosystem and AWS services**.
-- Leveraged **Sqoop, Hive, Oozie, SparkSQL** for batch processing and analytics.
-
----
-
 ###  Featured Projects
 
 ** Real-Time CAPTCHA using Hand Gesture Recognition**  
